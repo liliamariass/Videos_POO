@@ -1,11 +1,11 @@
-1agenda =  {}
+agenda =  {}
 print("Agenda da Instituição Y")
 resposta ="S"
 while resposta == "S":
     nome = input ("Digite o nome do servidor ou colaborador que deseja cadastrar: ")
     endereco = input ("Digite o endereço: ")
-    dd = int (input ("Digite o DD: "))
-    telefone = int (input ("Digite o telefone: "))
+    dd = input ("Digite o DD: ")
+    telefone = input ("Digite o telefone: ")
 
     agenda[nome] = {
         "Nome": nome,
@@ -29,8 +29,8 @@ arquivo = open("agenda.txt", "w", encoding="utf-8")
 for contato in agenda:
     arquivo.write("Nome: " + agenda[contato]["Nome"] + "\n" )
     arquivo.write("Endereço: " + agenda[contato]["Endereco"] + "\n" )
-    arquivo.write("DD: " + str(agenda[contato]["DD"]) + "\n" )
-    arquivo.write("Nome: " + str(agenda[contato]["Nome"]) + "\n")
+    arquivo.write("DD: " + agenda[contato]["DD"] + "\n" )
+    arquivo.write("Nome: " + agenda[contato]["Nome"] + "\n")
     print("-"*30)
 arquivo.close()
 
