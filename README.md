@@ -12,3 +12,5 @@ https://drive.google.com/file/d/14DDJVVQAE5P6fqMDDXqVAGJuqI2wPnke/view?usp=drive
 
 ## Questão Difícil: 
 Lista 3 - Questão 27
+link:
+https://drive.google.com/file/d/1xqJtgH7NxATpjduzA7uaXroO3jXcd1ST/view?usp=drivesdk
