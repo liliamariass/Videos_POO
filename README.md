@@ -7,6 +7,8 @@ link: https://drive.google.com/file/d/1NZP8w5lyjzCifiNMDDZS0x6sFZ0GbEOd/view?usp
 
 ## Questão Mediana:
 Lista 3 - Questão 3
+link:
+https://drive.google.com/file/d/14DDJVVQAE5P6fqMDDXqVAGJuqI2wPnke/view?usp=drivesdk
 
 ## Questão Difícil: 
 Lista 3 - Questão 27
